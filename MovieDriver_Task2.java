@@ -13,6 +13,7 @@ public class MovieDriver_Task2 {
             System.out.print("Enter the title of the movie: ");
             String title = keyboard.nextLine();
             movie.setTitle(title);
+git pull origin master --allow-unrelated-histories
 
             // Prompt for movie rating
             System.out.print("Enter the movie's rating: ");
